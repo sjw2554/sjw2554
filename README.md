@@ -1,5 +1,5 @@
-- 👋 Hi, I’m JungWon Shin. I’m mobile app developer. (Android, iOS, Flutter)
+- 👋 Hi, I’m JungWon Shin. I’m Mobile application developer. (Flutter, Android, iOS)
 - 👀 You can conntect me anytime.
 - 🌱 portfolio: https://sjw2554.dyndns.org
 - 💞️ e-mail: sjw2554@daum.net
-- 📫 I’m waiting for who need to me. Thank you.
+- 📫 Thank you.
